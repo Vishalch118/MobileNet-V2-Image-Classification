@@ -62,7 +62,7 @@ Ensure the following Python libraries are installed:
 pip install tensorflow keras numpy matplotlib scikit-learn pillow kaggle
 ```
 
-How to Run
+## How to Run
 
 Download the dataset using the Kaggle API.
 
@@ -72,7 +72,8 @@ Open the notebook in Jupyter or Google Colab.
 
 Run all cells sequentially to train and evaluate the model.
 
-📈 Results
+
+## 📈 Results
 
 After training, the notebook produces:
 
@@ -82,18 +83,21 @@ Confusion Matrix showing classification performance
 
 Predicted vs. Actual Visualization for sample images
 
-👥 Contributors
+
+## 👥 Contributors
 
 Vishal Ch — GitHub Profile
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
-🪪 License
+
+## 🪪 License
 
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-🔗 References
+
+## 🔗 References
 
 TensorFlow Documentation: https://www.tensorflow.org/api_docs
 
@@ -105,5 +109,3 @@ Matplotlib Documentation: https://matplotlib.org/
 
 ⭐ If you found this project helpful, consider starring the repository!
 
-# Install dependencies
-pip install -r requirements.txt
